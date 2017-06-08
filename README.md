@@ -1,1 +1,1 @@
-![ScreenShot](https://{i.imgur.com/lYsHkJ9.jpg})
+![screenshot](screenshot.png)
